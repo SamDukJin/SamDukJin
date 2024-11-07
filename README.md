@@ -2,9 +2,9 @@
 - 👀 I’m interested in Software programming.
 - 🌱 I’m currently learning Python, Rust, and C++
 
-- 📫 How to reach me ...
+- 📫 How to reach me: Actually just give me food and dm me eiei.
 - 😄 Pronouns: Helicopter if you want
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I literally going to die LOL
 
 <!---
 SamDukJin/SamDukJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

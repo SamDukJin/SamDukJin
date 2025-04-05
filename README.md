@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamDukJin
 - 👀 I’m interested in Software programming. Currently studying Y1 at KMITl.
-- 🌱 I’m currently learning Python, Rust, and C++, soon React...
+- 🌱 I’m currently learning Python, Rust, and C++, JavaScript, HTML, CSS, and soon React...
 
 
 

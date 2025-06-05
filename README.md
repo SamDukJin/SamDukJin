@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SamDukJin
-- 👀 I’m interested in Software programming. Currently studying Y1 at KMITl.
-- 🌱 I’m currently learning Python, Rust, and C++, JavaScript, HTML, CSS, what the hell is FastAPI, and soon React...
+-  Hi, my name is Thanaphat Chongkananurak 
+-  I’m interested in Software programming. Currently studying Y2 at KMITL.
+-  I’m currently learning Python, Rust, and C++, JavaScript, HTML, CSS, what the hell is FastAPI, React, a bit of C
 
 
 
